@@ -1,7 +1,7 @@
 import unittest
 
 
-class TestCharAlpha(unittest.TestCase):
+class TestMapBook(unittest.TestCase):
 
 
     def test_choiceinput(self):
